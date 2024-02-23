@@ -29,4 +29,4 @@ Reversed Linked List: 3 4 5 6
 
 ## License
 
-This program is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This program is licensed under the MIT License. See the [LICENSE](https://github.com/PATILYASHH/LICENES/) file for details.
